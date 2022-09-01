@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Home Automations</string>
+    <string name="home">Home</string>
+    <string name="automations">Automations</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirm_delete">Are you sure you want to delete the selected item</string>
+    <string name="confirm_title">Confirm</string>
+    <string name="edit">Edit</string>
+    <string name="action_add_device">Add new device</string>
+    <string name="wifi">Wifi</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_ssid">SSID</string>
+    <string name="delete">Delete</string>
+    <string name="save">save</string>
+    <string name="target_cube">Target cube</string>
+    <string name="target_state">Target state</string>
+    <string name="automation_title">Automation title</string>
+    <string name="delay">Delay</string>
+    <string name="days">Days</string>
+    <string name="time">Time</string>
+    <string name="select">Select</string>
+    <string name="conditions">Conditions</string>
+    <string name="value">value</string>
+
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>

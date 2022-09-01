@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Automations</string>
+    <string name="home">Αρχική</string>
+    <string name="automations">Αυτοματισμοί</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="confirm_delete">Διαγραφή επιλογής</string>
+    <string name="confirm_title">Eπιβεβαίωση</string>
+    <string name="hello_blank_fragment">gg</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="action_add_device">Προσθήκη συσκευής</string>
+    <string name="wifi">Wifi</string>
+    <string name="wifi_password">Κωδικός</string>
+    <string name="wifi_ssid">SSID</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="target_cube">Επίλεξε κύβο</string>
+    <string name="target_state">Ενεργοποίηση κύβου</string>
+    <string name="automation_title">Τίτλος αυτοματισμού</string>
+    <string name="delay">Καθυστέρηση</string>
+    <string name="days">Ημέρες</string>
+    <string name="time">Ώρα</string>
+    <string name="select">Επιλογή</string>
+    <string name="conditions">Συνθήκες</string>
+    <string name="value">value</string>
+
+    <string-array name="days_array">
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+    </string-array>
+
+</resources>

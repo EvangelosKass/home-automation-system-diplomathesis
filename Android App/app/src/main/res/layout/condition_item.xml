@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/delete_bt"
+        android:src="@drawable/ic_delete"
+        android:layout_width="28dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true" />
+    <Spinner
+        android:id="@+id/sensor_dropdown"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"/>
+    <Spinner
+        android:id="@+id/operation_dropdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/value_et"
+        android:hint="@string/value"
+        android:inputType="number"
+        android:imeOptions="actionDone"
+        android:lines="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

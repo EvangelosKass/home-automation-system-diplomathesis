@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/wifi">
+
+        <EditTextPreference
+            app:key="wifi_ssid"
+            app:title="@string/wifi_ssid"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="wifi_password"
+            app:title="@string/wifi_password"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
